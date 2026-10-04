@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Alkime Softworks`,
-    description: `A digital design and development firm located in Charlotte, NC.`,
-    author: `@gatsbyjs`,
+    title: `ALKIME LLC`,
+    description: `ALKIME LLC is an independent software company designing and developing practical web and mobile applications.`,
+    siteUrl: `https://alkime.co/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -21,8 +21,8 @@ module.exports = {
         name: `alkime`,
         short_name: `alkime`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#10120f`,
+        theme_color: `#10120f`,
         display: `minimal-ui`,
         icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
