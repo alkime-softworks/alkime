@@ -41,7 +41,24 @@ const IndexPage = () => (
             practical products for the web and mobile.
           </p>
           <a className="text-link" href="#projects">
-            Explore our projects <span aria-hidden="true">↘</span>
+            Explore our projects
+            <span aria-hidden="true">
+              <svg
+                width="22"
+                height="22"
+                viewBox="0 0 24 24"
+                fill="none"
+                focusable="false"
+              >
+                <path
+                  d="M5 5L19 19M7 19H19V7"
+                  stroke="currentColor"
+                  strokeWidth="1.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />
+              </svg>
+            </span>
           </a>
         </div>
         <div className="hero-art" aria-hidden="true">
