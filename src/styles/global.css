@@ -215,12 +215,12 @@ h1 {
   height: auto;
   aspect-ratio: 14 / 9;
 }
-.project-bikecheck .project-art {
+.project-greasy .project-art {
   grid-column: 2;
   grid-row: 1;
   background: #d7c7b3;
 }
-.project-bikecheck .project-content {
+.project-greasy .project-content {
   grid-column: 1;
   grid-row: 1;
 }
@@ -423,8 +423,8 @@ h1 {
     gap: 26px;
     padding-block: 28px 36px;
   }
-  .project-bikecheck .project-art,
-  .project-bikecheck .project-content {
+  .project-greasy .project-art,
+  .project-greasy .project-content {
     grid-column: auto;
     grid-row: auto;
   }

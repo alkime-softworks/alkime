@@ -4,7 +4,7 @@ import SEO from "../components/seo"
 import {
   HeroArtwork,
   CyclopsArtwork,
-  BikeCheckArtwork,
+  GreasyArtwork,
 } from "../components/illustrations"
 
 const IndexPage = () => (
@@ -102,15 +102,15 @@ const IndexPage = () => (
         </article>
 
         <article
-          className="project project-bikecheck"
-          aria-labelledby="bikecheck-title"
+          className="project project-greasy"
+          aria-labelledby="greasy-title"
         >
           <div className="project-art" aria-hidden="true">
-            <BikeCheckArtwork />
+            <GreasyArtwork />
           </div>
           <div className="project-content">
             <div className="project-identity">
-              <h3 id="bikecheck-title">BikeCheck</h3>
+              <h3 id="greasy-title">Greasy</h3>
               <p className="project-category">Bike maintenance / iPhone</p>
               <span className="status">In development</span>
             </div>
@@ -123,6 +123,9 @@ const IndexPage = () => (
                 way to connect riding activity with bike care and keep
                 maintenance records close at hand.
               </p>
+              <a className="text-link" href="https://greasy.cc/">
+                Visit greasy.cc
+              </a>
             </div>
           </div>
         </article>
@@ -148,8 +151,8 @@ const IndexPage = () => (
             the web and mobile.
           </p>
           <p>
-            Our current projects include Cyclops for cycling events and
-            BikeCheck for bike maintenance.
+            Our current projects include Cyclops for cycling events and Greasy
+            for bike maintenance.
           </p>
         </div>
       </section>
