@@ -34,4 +34,4 @@ Keep `static/CNAME` set to `alkime.co`. Check the GitHub Pages deployment and ht
 
 ## Content upkeep
 
-Cyclops and BikeCheck are described as projects in development. Update availability and add product destinations only once they are publicly usable. Publish a company contact address only after its owner has approved using it publicly.
+Cyclops and Greasy are described as projects in development. Update availability and add product destinations only once they are publicly usable. Publish a company contact address only after its owner has approved using it publicly.

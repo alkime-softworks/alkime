@@ -115,7 +115,7 @@ const toothPoints = Array.from({ length: 112 }, (_, i) => {
   ).toFixed(2)}`
 }).join(" ")
 
-export const BikeCheckArtwork = () => (
+export const GreasyArtwork = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 560 360"
